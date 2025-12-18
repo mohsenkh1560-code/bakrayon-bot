@@ -1,1 +1,0 @@
-# bakrayon-bot
