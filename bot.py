@@ -2,7 +2,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import datetime
 
-TOKEN = "توکن_جدید_اینجا"
+TOKEN = "8597451776:AAF8sLPnQcLz91t6S7ITEFA9b9dMVUqdw7w"
 CHANNEL_ID = "@BaKrayon"
 ADMINS = [123456789]
 
