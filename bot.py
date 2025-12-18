@@ -4,7 +4,7 @@ import datetime
 
 TOKEN = "8597451776:AAF8sLPnQcLz91t6S7ITEFA9b9dMVUqdw7w"
 CHANNEL_ID = "@BaKrayon"
-ADMINS = [123456789]
+ADMINS = [83996901]
 
 def is_admin(uid):
     return uid in ADMINS
